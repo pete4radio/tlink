@@ -39,16 +39,16 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Pete/Documents/Current/pico/slink/build/pico-sdk/tools/cmake_install.cmake")
+  include("C:/Users/Pete/Documents/Current/pico/tlink/build/pico-sdk/tools/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Pete/Documents/Current/pico/slink/build/pico-sdk/src/cmake_install.cmake")
+  include("C:/Users/Pete/Documents/Current/pico/tlink/build/pico-sdk/src/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Pete/Documents/Current/pico/slink/build/pico-sdk/docs/cmake_install.cmake")
+  include("C:/Users/Pete/Documents/Current/pico/tlink/build/pico-sdk/docs/cmake_install.cmake")
 endif()
 
